@@ -1,0 +1,13 @@
+str = input("Enter the string:")
+str = str.lower()
+a_count = str.count('a')
+e_count = str.count('e')
+i_count = str.count('i')
+o_count = str.count('o')
+u_count = str.count('u')
+
+print('a:', a_count)
+print('e:', e_count)
+print('i:', i_count)
+print('o:', o_count)
+print('u:', u_count)
