@@ -1,0 +1,20 @@
+def indexOfSmallestElement(lst):
+    small = min(lst)
+    idx = lst.index(small)
+    return small, idx
+
+
+n = int(input("Enter the value:"))
+lst = []
+print("the elements:")
+for i in range(n):
+    element = int(input())
+    lst.append(element)
+print("element in the list:")
+for i in lst:
+    print(i, end="")
+if len(lst) > 1:
+    small, idx = indexOfSmallestElement(lst)
+    print("smallest", small, " index", idx)
+else:
+    print("Invalid ")
