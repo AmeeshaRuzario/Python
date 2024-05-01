@@ -1,2 +1,10 @@
-90 87 70 95 79 85
-94 60 79 65 99 83
+Student0 A D A D D A E E C C
+Student1 D B A B C A E E A D
+Student2 E D D A C B E E A D
+Student3 C B A E D C E E A D
+Student4 A B D C C D E E A D
+Student5 B B E C C D E E A D
+Student6 B B A C C D E E A D
+Student7 E B E C C D E E A D
+Student8 C B A E D C E E A D
+Student9 A B D C C D E E A D
